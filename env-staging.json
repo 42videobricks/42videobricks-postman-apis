@@ -1,0 +1,99 @@
+{
+	"id": "20743353-f3e6-45ff-9062-3e919f712117",
+	"name": "Staging",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "https://api-stg.42videobricks.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "apiKey",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "limit",
+			"value": "10",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "offset",
+			"value": "0",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "locale",
+			"value": "fr-FR",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "attachmentType",
+			"value": "subtitle",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "search",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "partial",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "videoId",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "webhookId",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "playlistId",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "linkType",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "interval",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "starDate",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		},
+		{
+			"key": "endDate",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-01-20T14:35:49.374Z",
+	"_postman_exported_using": "Postman/11.28.4"
+}
